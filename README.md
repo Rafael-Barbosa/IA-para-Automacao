@@ -19,3 +19,9 @@
 > <p align="justify"> Em nossa segunda aula vimos: As árvores de decisão que são um tipo de modelo de aprendizado de máquina supervisionado amplamente utilizado para problemas de classificação. Elas são extremamente intuitivas e de fácil interpretação, pois representam graficamente as decisões feitas pelo modelo. Uma árvore de decisão é composta por nós, que representam um teste em um atributo, e ramos, que representam o resultado do teste, levando a nós filhos subsequentes. Os nós finais, chamados de folhas, representam a decisão final ou previsão feita pelo modelo. </p>
 
  # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/Rafael-Barbosa/IA-para-Automacao/blob/main/Aula_2.ipynb) 
+
+  ### :chart_with_upwards_trend: Aula 4
+
+> <p align="justify"> Em nossa quarta aula vimos: Os sistemas especialistas e também como que a lógica fuzzy poder ser usada para lidar com incertezas, ambiguidades e imprecisões que são comuns em muitos domínios especializados. Isso permite que o sistema especialista modele o raciocínio humano mais natural e realista.</p>
+
+ # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/Rafael-Barbosa/IA-para-Automacao/blob/main/Aula_4.ipynb) 
