@@ -25,3 +25,10 @@
 > <p align="justify"> Em nossa quarta aula vimos: Os sistemas especialistas e também como que a lógica fuzzy poder ser usada para lidar com incertezas, ambiguidades e imprecisões que são comuns em muitos domínios especializados. Isso permite que o sistema especialista modele o raciocínio humano mais natural e realista.</p>
 
  # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/Rafael-Barbosa/IA-para-Automacao/blob/main/Aula_4.ipynb) 
+
+  ### :chart_with_upwards_trend: Aula 5
+
+> <p align="justify"> Em nossa quinta aula vimos: LISP que é uma das linguagens mais antigas, criada por John McCarthy em 1958, focada em manipulação simbólica e usada extensivamente em inteligência artificial (mas não é popular e está em declínio). PROLOG, desenvolvida nos anos 1970, é uma linguagem de programação lógica, operando com fatos e regras, comum em sistemas especialistas. Python, introduzida por Guido van Rossum em 1991, é versátil, de fácil leitura e amplamente adotada em diversos campos, incluindo IA e desenvolvimento web. </p>
+
+ # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/Rafael-Barbosa/IA-para-Automacao/blob/main/Revisao.ipynb) 
+
