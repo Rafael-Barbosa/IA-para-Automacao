@@ -32,3 +32,9 @@
 
  # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/Rafael-Barbosa/IA-para-Automacao/blob/main/Revisao.ipynb) 
 
+   ### :chart_with_upwards_trend: Aula 6
+
+> <p align="justify"> Em nossa sexta aula vimos: Os sistemas especialistas em IA que são projetados para tomar decisões baseadas em conhecimento específico de domínio. No contexto da automação, essas ferramentas ajudam a simular a decisão de um especialista humano em tarefas específicas. Aqui fizemos um pequeno exemplo utilizando linguagem Python com Prolog, para mostrar que é possível desenvolver um programa utilizando um paradigma de programação diferente. </p>
+
+ # :computer: [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://github.com/Rafael-Barbosa/IA-para-Automacao/blob/main/Aula_6_Pr%C3%A1tica.ipynb) 
+
